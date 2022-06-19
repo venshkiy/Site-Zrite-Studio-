@@ -1,0 +1,98 @@
+ 
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KBHGWBM');
+</script>#D_END_SCRIPTS#
+<script src="js/appd52e.js?1594070661" defer></script>#D_END_SCRIPTS#
+<script src="js/commond52e.js?1594070661"></script>#D_END_SCRIPTS#
+<script src="../vk.com/js/api/openapi7e77.js?166" async></script>#D_END_SCRIPTS#
+<script src="../unpkg.com/simplebar%405.2.1/dist/simplebar.min.js"></script>#D_END_SCRIPTS#
+<script src="../www.google.com/recaptcha/api7192.js?render=6LfoerMUAAAAABPDYSl6xzyWRsPbevRLBbRYTWxa"></script>#D_END_SCRIPTS#
+<script src="js/pages/indexe62b.js?150334911"></script>#D_END_SCRIPTS#
+<script src="js/pages/news8284.js?31340125"></script>#D_END_SCRIPTS#
+<script type="text/javascript">
+    var user = {
+    "url": "https:\/\/gta5rp.com",
+    "version": 1594070661,
+    "mid": null,
+    "csrfToken": "d14f9706b191e03628eac5b3258b",
+    "searchSpider": true
+};
+    window.needNewNavBar = true;
+    window.redesignRoutes = [
+    "\/",
+    "\/login",
+    "\/restore",
+    "\/settings",
+    "\/stats",
+    "\/start",
+    "\/about",
+    "\/news",
+    "\/donate",
+    "\/register",
+    "\/shop",
+    "\/top",
+    "\/boombox"
+];
+</script>#D_END_SCRIPTS#
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(65589514, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>#D_END_SCRIPTS#
+<script type="text/javascript">
+    domReady(function () {
+        stFiles.init({
+    "index.js": 150334911,
+    "index.css": 79641103,
+    "news.js": 31340125,
+    "news.css": 31340125
+});
+        ajax.refreshNav();
+new WOW.WOW().init();
+new ClipboardJS('.g-btn');
+Index.init();
+addLangKeys({"global_confirm_box_title":"Подтверждение действия","global_yes":"Да","global_no":"Нет","global_captcha_box":"Проверка на робота. Подождите"});
+ajax.setPageParams({"title":"GTA5VIRTS.RU | ПРОДАЖА ВИРТОВ GTA 5 RP","loc":"\/","module":"index","noLoc":false});
+
+    });
+</script>#D_END_SCRIPTS#
+<script type="text/javascript">
+    VK.Widgets.CommunityMessages("vk_community_messages", 177216309, {tooltipButtonText: "Есть вопрос?"});
+</script>#D_END_SCRIPTS#
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>#D_END_SCRIPTS#
+<script src="js/pages/donated2ef.js?244429245"></script>#D_END_SCRIPTS#
+<script type="text/javascript">
+    var user = {
+    "url": "https:\/\/gta5rp.com",
+    "version": 1594070661,
+    "mid": null,
+    "csrfToken": "9d46869cba52870babb79b575b8e",
+    "searchSpider": true
+};
+    window.needNewNavBar = true;
+    window.redesignRoutes = [
+    "\/",
+    "\/login",
+    "\/restore",
+    "\/settings",
+    "\/stats",
+    "\/start",
+    "\/about",
+    "\/news",
+    "\/donate",
+    "\/register",
+    "\/shop",
+    "\/top",
+    "\/boombox"
+];
+</script>#D_END_SCRIPTS#
